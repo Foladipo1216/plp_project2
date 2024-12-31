@@ -1,0 +1,102 @@
+/*Navbar section starts*/
+.navbar .nav-content{
+   color: rgb(4, 4, 4);
+   font-size: 1rem;
+   font-weight: 500;
+}
+
+.navbar .nav-right {
+   padding-left: 1.5rem;
+}
+
+.navbar .icon {
+   font-size: 1rem;
+   margin-right: 2rem;
+}
+/*Navbar section ends*/
+
+/*first section starts*/
+.first-section {
+   background-image: url('../images/firstimage.jpeg');
+   height: 550px;
+   background-size: cover;
+   background-position: center;
+   background-repeat: no-repeat;
+   position: relative;
+}
+
+.overlay {
+   padding-top: 8rem;
+   position: absolute;
+   top: 0;
+   left: 0;
+   right: 0;
+   bottom: 0;
+   background-color: rgba(64, 25, 72, 0.8);
+   padding-left: 10rem;
+   padding-right: 10rem;
+   
+}
+
+.overlay h1 {
+   color: white;
+   text-align: center;
+   font-size: 3rem;
+   font-weight: 700;
+}
+
+.overlay p {
+   color: white;
+   font-size: 1.5rem;
+}
+
+.overlay .first-btn {
+   width: 8rem;
+   height: 2.5rem;
+   font-size: 1rem;
+   font-weight: 600;
+   color: white;
+   background-color: #D5AB34;
+   border: none;
+}
+/*first section ends*/
+
+/*Academy section starts*/
+.academy {
+   margin-top: 3rem;
+}
+
+.academyheading {
+   font-size: 40px;
+   font-weight: 500;
+   color: #27272B;
+   ;
+}
+
+.slogan {
+   font-size: 20px;
+   font-weight: 400;
+   color: #27272B;
+}
+
+.homeacademy {
+   margin-top: 3rem;
+}
+
+.academyp {
+   font-size: 20px;
+   font-weight: 400;
+   padding-top: 2rem;
+}
+
+.academypic {
+   height: 350px;
+   width: 300px;
+}
+
+.academyimg  img{
+   width: 470px;
+   margin-right: 0;
+   height: 500px;
+}
+/*Academy section ends*/
